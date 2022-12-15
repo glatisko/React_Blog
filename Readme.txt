@@ -11,5 +11,4 @@ Basic authentication: FirebaseAuth
 
 
 Deployment: 
-https://hello-react-goran.herokuapp.com/
-(retired) https://my-react-blog-eb5a5.ue.r.appspot.com/ 
+https://my-react-blog-eb5a5.ue.r.appspot.com/ 
